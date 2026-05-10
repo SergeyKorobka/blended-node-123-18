@@ -1,0 +1,61 @@
+[{
+        "name": "Smartphone",
+        "price": 699.99,
+        "category": "electronics",
+        "description": "Latest model smartphone with 5G"
+    },
+    {
+        "name": "Laptop",
+        "price": 1299.99,
+        "category": "electronics",
+        "description": "High performance laptop for professionals"
+    },
+    {
+        "name": "Refrigerator",
+        "price": 499.99,
+        "category": "other",
+        "description": "Energy efficient refrigerator"
+    },
+    {
+        "name": "T-Shirt",
+        "price": 19.99,
+        "category": "clothing",
+        "description": "Comfortable cotton t-shirt"
+    },
+    {
+        "name": "Novel",
+        "price": 14.99,
+        "category": "books",
+        "description": "Bestselling fiction novel"
+    },
+    {
+        "name": "Headphones",
+        "price": 59.99,
+        "category": "electronics",
+        "description": "Noise-cancelling over-ear headphones"
+    },
+    {
+        "name": "Washing Machine",
+        "price": 399.99,
+        "category": "other",
+        "description": "Front load washing machine with smart features"
+    },
+    {
+        "name": "Running Shoes",
+        "price": 89.99,
+        "category": "clothing",
+        "description": "Lightweight running shoes with good grip"
+    },
+    {
+        "name": "Cookbook",
+        "price": 24.99,
+        "category": "books",
+        "description": "Collection of gourmet recipes"
+    },
+    {
+        "name": "Smartwatch",
+        "price": 199.99,
+        "category": "electronics",
+        "description": "Smartwatch with fitness tracking features"
+    }
+]
